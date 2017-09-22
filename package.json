@@ -1,0 +1,11 @@
+{
+  "name": "primo-explore-bc-logo",
+  "version": "0.0.1",
+  "description": "Clickable BC Libraries logo for Primo",
+  "main": "js/logo.js",
+  "keywords": [
+    "primo"
+  ],
+  "author": "Luke Gaudreau",
+  "license": "GPL-3.0"
+}
