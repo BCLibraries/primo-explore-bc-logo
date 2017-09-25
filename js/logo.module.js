@@ -1,5 +1,5 @@
 angular
-	.module('bc-logo', ['angularLoad'])
+	.module('bc-logo', [])
 	.controller('prmLogoAfterController', [function () {
 		var vm = this;
 		vm.getIconLink = getIconLink;
